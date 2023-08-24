@@ -7,5 +7,4 @@ https://suvvadatejesh.github.io/Temperature-converter-website/
 Created using:
 .HTML
 .CSS
-.Bootstrap
 .JavaScript
